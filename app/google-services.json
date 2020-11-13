@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614563097671",
+    "firebase_url": "https://car-shop-eeb47.firebaseio.com",
+    "project_id": "car-shop-eeb47",
+    "storage_bucket": "car-shop-eeb47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614563097671:android:1a81905675033b030bd562",
+        "android_client_info": {
+          "package_name": "com.example.databasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614563097671-o985vbs8m81tj81fps9lf9hebcm6n513.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5PfSx_74pEJZh60OTB8CVyNsKRkGBz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614563097671-o985vbs8m81tj81fps9lf9hebcm6n513.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

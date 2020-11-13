@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="HOME"
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        />
+    <item android:title="NEW CARS"
+        android:id="@+id/menu_newcars"
+        android:icon="@drawable/ic_new_car"/>
+    <item android:title="SELL YOUR CAR"
+        android:id="@+id/menu_sellcar"
+        android:icon="@drawable/ic_add"/>
+    <item android:title="CAR SHOWROOMS"
+        android:id="@+id/menu_car_showrooms"
+        android:icon="@drawable/ic_car_showroom"/>
+    <item android:title="IMPORTED CARS"
+        android:id="@+id/menu_importedcars"
+        android:icon="@drawable/ic_outdoor"/>
+    <item android:title="USED CARS"
+        android:id="@+id/menu_usedcars"
+        android:icon="@drawable/ic_car"/>
+    <item android:title="MAINTENANCE"
+        android:id="@+id/menu_maitaince"
+        android:icon="@drawable/ic_maintaince"/>
+    <item android:title="SIGN OUT"
+        android:id="@+id/menu_sign_out"
+        android:icon="@drawable/ic_signout"
+        ></item>
+    <item android:title="exit car shop"
+        android:id="@+id/menu_exit"
+        android:icon="@drawable/ic_exit"
+        />
+</menu>
